@@ -1,0 +1,1 @@
+A single bug fix is deployed, but during regression testing, QA discovers that several unrelated functionalities are now broken. This reflects poor impact analysis and insufficient testing before deployment, turning a small fix into a bigger problem.
